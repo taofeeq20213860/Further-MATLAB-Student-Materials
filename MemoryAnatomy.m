@@ -6,7 +6,7 @@
 disp(user)
 disp(sys)
 
-%% Copy-on-Write Behaviour
+%% Copy-on-Write Behaviour Essential New
 % When assigning one variable to another, MATLAB does not create a copy of
 % that variable until it is necessary. Instead, it creates a reference.
 % A copy is made only when code modifies one or more values in the
